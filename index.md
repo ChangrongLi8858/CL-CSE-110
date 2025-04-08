@@ -19,7 +19,7 @@ Quoting()
 ``` 
 
 ## External Links (Link to another webpage)
-[just a random link](https://www.youtube.com/watch?v=IxX_QHay02M)  
+[just a random link](https://www.youtube.com/watch?v=xfuIlmywvXI)  
 
 ## Section links (Link to a header in the same .md file)
 [skip to introduction](#introduction)  
