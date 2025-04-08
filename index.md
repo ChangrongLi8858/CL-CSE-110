@@ -1,10 +1,10 @@
 # CSE110 Lab 1 <!-- first title -->
 
 ## introduction
-Hello everyone.  
-This is the page of **UCSD** *25SP* **CSE 110** *Lab 1*.    
-~~Actually I don't know what else to write about~~    
-~~So what follows is basically literally written as required.~~
+<sub>Hello</sub> <sup>everyone</sup>.  
+<u>This</u> <mark>is the</mark> <span style="color: red">page of</span> **UCSD** *25SP* **CSE 110** *Lab 1*.    
+<span style="font-size: 10px">~~Actually I don't know what else to write about~~    
+~~So what follows is basically literally written as required.~~</span>
 
 ## quoting text
 > Quoting text 1  
