@@ -1,14 +1,10 @@
-# Changrong Li - CSE 110 Page <!-- first title -->
+# CSE110 Lab 1 <!-- first title -->
 
-## show image
-![smile](images/smile.png)
-
-## styling text
-**Bold by using double asterisk**  
-__Bold by using double underline__  
-*Italics by using asterisk*  
-_Italics by using underline_  
-~~Strikethrough by using double tilde~~  
+## introduction
+Hello everyone.  
+This is the page of **UCSD** *25SP* **CSE 110** *Lab 1*.    
+~~Actually I don't know what else to write about~~    
+~~So what follows is basically literally written as required.~~
 
 ## quoting text
 > Quoting text 1  
@@ -23,14 +19,14 @@ Quoting()
 ``` 
 
 ## External Links (Link to another webpage)
-[visit GitHub](https://github.com)  
+[just a random link](https://www.youtube.com/watch?v=IxX_QHay02M)  
 
 ## Section links (Link to a header in the same .md file)
-[link to quoting text](#quoting-text)  
+[skip to introduction](#introduction)  
 
 ## Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 [link to README](README.md)  
-[link to image smile](images/smile.png)  
+[*hehe*](images/8.jpg)  
 
 ## Ordered and Unordered Lists
 ### ordered
@@ -47,3 +43,9 @@ Quoting()
 - [x] task 1
 - [ ] task 2
 - [ ] task 3
+
+## And then there's nothing else, just my cats
+![This is the older one, she is 3 years old](images/1.jpg)
+![This is the second, which is a cross between a muppet and a silver crepe](images/4.jpg)
+![This one is the youngest and the most troubled](images/3.jpg)
+
